@@ -1,5 +1,6 @@
 # Rate-Processing-Engine-Simulator
 
+![image](https://user-images.githubusercontent.com/61049979/120110991-9f2ce080-c18d-11eb-91cb-e7b6a5f9496e.png)
 
 A java application has been created with the following functionalities:
 <br>
